@@ -1,3 +1,4 @@
 hello world
 create dev,right!
 add a dev branch
+creating a new branch is quick and simple
